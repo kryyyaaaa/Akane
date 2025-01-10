@@ -7,9 +7,13 @@
 
 > [!IMPORTANT]
 > **Об Akane**
-> Апи написано by : `t.me/ultraskid`
+> 
+> Апи написано by : `https://t.me/ultraskid`
+> 
 > Для инжекта используется : `ForlornInject.dll`
+> 
 > UNC : `83%`
+> 
 
 ## 
 
